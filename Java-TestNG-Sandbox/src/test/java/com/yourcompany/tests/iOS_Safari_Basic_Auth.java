@@ -1,4 +1,4 @@
-package com.yourcompany;
+package com.yourcompany.tests;
 
 import org.apache.commons.codec.binary.Base64;
 import org.apache.commons.io.FileUtils;
